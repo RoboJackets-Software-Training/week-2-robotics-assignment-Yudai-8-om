@@ -100,7 +100,7 @@ int main(){
 
         // TODO Output your state machine's light controls to std::cout
         std::cout << output.red_ns << output.yellow_ns << output.green_ns << 
-                     output.red_ew << output.yellow_ns << output.green_ew << std::endl;
+                     output.red_ew << output.yellow_ew << output.green_ew << std::endl;
         time++;
       }
     
